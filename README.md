@@ -16,7 +16,6 @@ This repository is created to:
 ## 📂 Repository Structure
 
 Machine-Learning-Lab/
-
 │
 ├── Python/
 ├── Numpy/
