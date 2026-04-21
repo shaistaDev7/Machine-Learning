@@ -15,6 +15,7 @@ This repository is created to:
 
 ## 📂 Repository Structure
 
+```
 Machine-Learning-Lab/
 │
 ├── Python/
@@ -22,6 +23,7 @@ Machine-Learning-Lab/
 ├── Pandas/
 ├── Matplotlib/
 ├── Scikit-learn/
+```
 
 Each folder includes:
 - Lab tasks  
