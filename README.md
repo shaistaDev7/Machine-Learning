@@ -13,7 +13,7 @@ This repository is created to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repo Structure
 
 ```
 Machine-Learning-Lab/
