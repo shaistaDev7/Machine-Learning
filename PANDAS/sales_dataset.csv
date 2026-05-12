@@ -1,0 +1,13 @@
+Order_ID,Product,Category,Price,Quantity,City
+201,Laptop,Electronics,120000,2,Lahore
+202,Mouse,Accessories,1500,5,Karachi
+203,Keyboard,Accessories,3000,3,Islamabad
+204,Monitor,Electronics,40000,1,Lahore
+205,Laptop,Electronics,125000,1,Karachi
+206,Mouse,Accessories,1700,4,Islamabad
+207,Keyboard,Accessories,3200,2,Lahore
+208,Laptop,Electronics,130000,1,Karachi
+209,Monitor,Electronics,42000,2,Islamabad
+210,Mouse,Accessories,1600,6,Lahore
+211,Tablet,Electronics,55000,3,Karachi
+212,Printer,Electronics,25000,2,Islamabad
